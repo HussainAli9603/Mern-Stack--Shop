@@ -1,8 +1,5 @@
 # MERN Stack Project
 
-# Prerequisite
-
-1.  Must have basic knowledge of **Node**, **React**, **Express**, **MongoDB** . _I have made tutorial on each technology on YouTube , make sure to check it out_. 
 # Install Dependencies
 
 **For Backend** - `npm i`
